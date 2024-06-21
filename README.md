@@ -98,7 +98,3 @@ backend
 
 ## Contributing
 If you wish to contribute to this project, please fork the repository and create a pull request with your changes.
-
-
-
-`https://github.com/bhavi7023/Backend-Server`. This README provides a comprehensive guide to setting up, running, and using the backend server.
