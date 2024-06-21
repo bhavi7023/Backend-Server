@@ -1,0 +1,12 @@
+backend
+├── src
+│   ├── index.ts
+│   ├── routes
+│   │   └── submissions.ts
+│   ├── controllers
+│   │   └── submissionsController.ts
+│   ├── models
+│   │   └── submission.ts
+├── db.json
+├── package.json
+└── tsconfig.json
